@@ -1,0 +1,220 @@
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.15.228.190)(PORT=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 18-SET-2019 17:02:17
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle80)(ARGV0=oracle80ORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 18-SET-2019 17:02:17
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=CORCOVADOHML)(PORT=1521))(CONNECT_DATA=(SID=sigepdvaux)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:40:06
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=una)(Port=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:40:06
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=CORCOVADOHML)(PORT=1521))(CONNECT_DATA=(SID=sigepdvaux)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:40:54
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=una)(Port=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:40:54
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=CORCOVADO-HML)(PORT=1521))(CONNECT_DATA=(SID=sigepdvaux)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:41:37
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=una)(Port=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:41:37
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=CORCOVADO-HML)(PORT=1521))(CONNECT_DATA=(SID=sigepdv)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:43:13
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=una)(Port=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:43:13
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=corcovado-hml)(PORT=1521))(CONNECT_DATA=(SID=sigepdv)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:43:48
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=una)(Port=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:43:48
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.15.228.62)(PORT=1521))(CONNECT_DATA=(SID=sigepdv)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:47:45
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=una)(Port=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:47:45
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.15.228.62)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=sigepdv)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:49:33
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=una)(Port=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:49:33
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.15.228.62)(PORT=1521))(CONNECT_DATA=(SID=sigepdv)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:52:31
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=una)(Port=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:52:31
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.15.228.190)(PORT=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:52:46
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=una)(Port=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:52:46
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.15.228.190)(PORT=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:53:45
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=una)(Port=1521))(CONNECT_DATA=(SID=orac)(CID=(PROGRAM=C:\Program Files (x86)\AutoIt3\autoit3.exe)(HOST=NT-200574)(USER=viniciusferraz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.0.6.3.0 - Production
+  Time: 13-DEC-2019 14:53:45
+  Tracing not turned on.
