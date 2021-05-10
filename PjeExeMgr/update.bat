@@ -68,6 +68,7 @@ cd %EXEPJE_PATH%\pje-integracao
 git pull
 )
 
+if "%~1"=="" SET var="ps"
 if %var%=="ps" (
 title UPDATE PJE-SEGURANCA
 cd %EXEPJE_PATH%\pje-seguranca

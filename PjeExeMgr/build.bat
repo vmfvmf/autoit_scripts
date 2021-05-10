@@ -53,7 +53,7 @@ cd %EXEPJE_PATH%\pje-integracao
 call %MAVN% clean install -DskipTests
 )
 
-
+if "%~1"=="" SET var="ps"
 if %var%=="ps" (
 TITLE BUILD PJE-SEGURANCA
 cd %EXEPJE_PATH%\pje-seguranca
