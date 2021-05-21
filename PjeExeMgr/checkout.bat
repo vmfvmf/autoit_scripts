@@ -53,12 +53,11 @@ cd %EXEPJE_PATH%\pje-corporativo
 git checkout %BNCH_PJE_CO%
 )
 
-
 if "%~1"=="" SET var="pet"
 if %var%=="pet" (
 title UPDATE PJE-ETIQUETAS-BACKEND
 cd %EXEPJE_PATH%\pje-etiquetas-backend
-git checkout %BNCH_PJE_PET_B%
+git checkout %BNCH_PJE_ET_B%
 )
 
 if "%~1"=="" SET var="pi"
@@ -68,12 +67,14 @@ cd %EXEPJE_PATH%\pje-integracao
 git checkout %BNCH_PJE_I%
 )
 
+if "%~1"=="" SET var="ps"
 if %var%=="ps" (
 title UPDATE PJE-SEGURANCA
 cd %EXEPJE_PATH%\pje-seguranca
 git checkout %BNCH_PJE_S%
 )
 
+if "%~1"=="" SET var="psc"
 if %var%=="psc" (
 title UPDATE PJE-SCRIPTS
 cd %EXEPJE_PATH%\pje-scripts

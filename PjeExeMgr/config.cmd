@@ -1,5 +1,5 @@
 SET EXEPJE_PATH=C:\Users\viniciusferraz\git
-SET MAVN=C:\apache-maven-3\bin\mvn.cmd
+SET MAVN=C:\apache-maven\bin\mvn.cmd
 SET WILDF=C:\eclipse-kz\servers\wildfly-14.0.1.Final\bin
 SET BNCH_PJE_A=EGPJE-2136-dev42
 SET BNCH_PJE_B=PJEKZ-49245

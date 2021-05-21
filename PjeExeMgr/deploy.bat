@@ -53,6 +53,7 @@ if %var%=="ej" (
 	call %WILDF%\jboss-cli.bat --connect --command="deploy --force %EXEPJE_PATH%\exe-backend\exe-backend-jobs\target\exe-backend-jobs.war"
 )
 
+if "%~1"=="" SET var="ps"
 if %var%=="ps" (
 	title DEPLOY PJE-SEGURANCA
 	call %WILDF%\jboss-cli.bat --connect --command="deploy --force %EXEPJE_PATH%\pje-seguranca\pje-seguranca-api\target\pje-seguranca-api.war"
