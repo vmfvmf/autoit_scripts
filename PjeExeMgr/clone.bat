@@ -11,7 +11,7 @@ if %var%=="pa" (
 TITLE CLONE PJE-ASSINATURA
 if exist %EXEPJE_PATH%\pje-assinatura rmdir %EXEPJE_PATH%\pje-assinatura /S /Q
 cd %EXEPJE_PATH%
-git clone https://git.pje.csjt.jus.br/pje2/etiquetas/pje-etiquetas-backend
+git clone https://git.pje.csjt.jus.br/pje2/pje-assinatura 
 )
 
 if "%~1"=="" SET var="pb"
@@ -63,12 +63,12 @@ cd %EXEPJE_PATH%
 git clone https://git.pje.csjt.jus.br/pje2/pje-integracao
 )
 
-
+if "%~1"=="" SET var="ps"
 if %var%=="ps" (
 TITLE CLONE PJE-SEGURANCA
 if exist %EXEPJE_PATH%\pje-seguranca rmdir %EXEPJE_PATH%\pje-seguranca /S /Q
 cd %EXEPJE_PATH%
-git clone https://git.pje.csjt.jus.br/pje2/pje-integracao
+git clone https://git.pje.csjt.jus.br/pje2/pje-seguranca
 )
 
 if "%~1"=="" SET var="eb"

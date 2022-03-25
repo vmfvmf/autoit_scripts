@@ -4,6 +4,12 @@ CALL config.cmd
 
 SET var="%~1" 
 
+IF NOT EXIST %WILDF%\jboss-cli.bat (
+	echo "WILDFLY jboss-cli.bat nao encontrado. Verifique o caminho no arquivo config.cmd. Encerrendo."
+	pause
+	exit
+)
+
 if "%~1"=="" SET var="pb"
 if %var%=="pb" (
 	title DEPLOY PJE-BACKEND
@@ -48,7 +54,7 @@ if %var%=="eb" (
 )
 
 if "%~1"=="" SET var="ej"
-if %var%=="ej" (
+if %var%=="ej" if %var%=="eb" (
 	title DEPLOY EXE-BACKEND JOBS
 	call %WILDF%\jboss-cli.bat --connect --command="deploy --force %EXEPJE_PATH%\exe-backend\exe-backend-jobs\target\exe-backend-jobs.war"
 )
